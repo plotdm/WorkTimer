@@ -1,0 +1,12 @@
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\bin\Debug\WorkTimer.exe
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\bin\Debug\WorkTimer.pdb
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.Properties.Resources.resources
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.exe
+c:\users\pda\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.pdb
+C:\Users\PDA\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\bin\Debug\WorkTimer.exe.config
+C:\Users\PDA\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.UI.TimerForm.resources
+C:\Users\PDA\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.UI.AboutForm.resources
+C:\Users\PDA\documents\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.UI.OptionsForm.resources
